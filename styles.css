@@ -121,6 +121,7 @@ header{
     font-size: 15px;
     display: flex;
     justify-content: right;
+    margin-bottom: 10px;
 }
 
 .text-plano {

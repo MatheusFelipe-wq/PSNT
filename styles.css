@@ -121,7 +121,6 @@ header{
     font-size: 15px;
     display: flex;
     justify-content: right;
-    margin-bottom: 10px;
 }
 
 .text-plano {
@@ -266,6 +265,7 @@ footer h1 {
     }
 
     .pat {
+        height: 390px;
         padding: 1.5rem 2rem;
     }
 
@@ -279,7 +279,7 @@ footer h1 {
 
     .pnst {
         padding: 1.5rem 2rem;
-        height: 200px;
+        height: 250px;
     }
 
     .text-pnst h5 {
